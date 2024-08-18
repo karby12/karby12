@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi everyone 👋
+### I am Eylül Uçar 
 
-<!--
-**karby12/karby12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm currently learning
 
-Here are some ideas to get you started:
+<img src="https://www.python.org/static/img/python-logo@2x.png" widht=350 height=90 >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓
+I am a first year Mechanical Engineering student at
+
+<img src="https://yildiz.edu.tr/themes/custom/ytu/logo.svg">
+
+> "Birey, **topluma olan borcunu** ancak kendini geliştirerek ödeyebilir. *Kendi potansiyelini* gerçekleştirmeyen insan, toplumu da yoksullaştırır."  
+– Cemil Meriç, *Bu Ülke*
+
+⚡ I am new to the coding world, but I will continuously work on improving myself🦋
+
+📫 Reach me! 👩🏻‍🔧  
+[Linkedin](https://www.linkedin.com/in/eyl%C3%BCl-u%C3%A7ar-aba907277) and
+[Instagram](https://www.instagram.com/karby.546/#)
